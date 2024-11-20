@@ -41,6 +41,10 @@ import Image from "next/image"
   
   export  default function TableDemo() {
     return (
+        <div>
+        <div className="flex justify-between">
+        <h1 className="font-bold  transition ease-in-out delay-150 hover:cursor-pointer hover:-translate-y-1 hover:scale-110  duration-300 ...">Users</h1>
+        </div>
       <Table>
         <TableCaption>A list of your recent users</TableCaption>
         <TableHeader>
@@ -64,6 +68,7 @@ import Image from "next/image"
         </TableBody>
        
       </Table>
+      </div>
     )
   }
   
