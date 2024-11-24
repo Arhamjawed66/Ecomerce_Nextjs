@@ -22,7 +22,7 @@ import Image from "next/image"
     },
     {
         profileImage:"https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=600",
-        fullname: "AHAD",
+        fullname: "Fahah",
         email: "Unpaid54354@gmail.com",
         location: "karachi",
        event: 3,
