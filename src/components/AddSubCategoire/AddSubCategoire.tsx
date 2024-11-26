@@ -39,7 +39,7 @@ export function SubAddCategory() {
           <DialogHeader>
             <DialogTitle>SubAddCategory</DialogTitle>
             <DialogDescription>
-              Make changes to your profile here. Click save when youre done.
+              Make changes to your profile here. Click save when your done.
             </DialogDescription>
           </DialogHeader>
           <ProfileForm />
